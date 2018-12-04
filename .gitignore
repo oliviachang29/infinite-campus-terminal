@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+config.py
+grades_db.json
+
+.DS_Store
+
+venv/
+
+.mypy_cache
