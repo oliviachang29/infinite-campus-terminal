@@ -13,3 +13,5 @@ python check_grades.py
 mostly the work of https://github.com/aaronduino/better-ic-grade-viewer
 
 note: may not work outside of PAUSD. 
+
+help wanted: convert this from python to javascript.
